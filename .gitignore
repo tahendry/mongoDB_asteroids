@@ -1,0 +1,10 @@
+# configuration files
+*.ini
+
+
+# the hand-in folder
+noSQL_Reto_Hendry_handin/
+
+
+# data
+*.json
